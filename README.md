@@ -48,7 +48,7 @@ Você precisa rodar o projeto principal antes de iniciar este microsserviço par
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-repo-reservas
+   git clone https://github.com/Guilherme-alexandr/Reserva_Sala
    ```
 
 2. Instale as dependências:
